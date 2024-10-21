@@ -6,33 +6,3 @@
 
 html, body { height: 100%; }
 body { margin: 0; font-family: Roboto, "Helvetica Neue", sans-serif; }
-
-.mat-toolbar {
-  display: flex;
-  justify-content: space-between;
-}
-
-.logo {
-  display: flex;
-  align-items: center;
-}
-
-.title {
-  font-size: 24px;
-  margin-left: 8px;
-}
-
-.spacer {
-  flex: 1;
-}
-
-a {
-  margin: 0 10px;
-  text-decoration: none;
-  color: inherit;
-}
-
-.highlight {
-  color: #e53935;
-  font-weight: bold;
-}
